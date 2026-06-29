@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "question": "Who is the inventor of Artificial Intelligence?",
+    "answer": "John McCarthy"
+  },
+  {
+    "id": 2,
+    "question": "What is the goal of Artificial Intelligence?",
+    "answer": "To explain various sort of intelligence"
+  },
+  {
+    "id": 3,
+    "question": "What is the name of the Artificial Intelligence system developed by Daniel Bobrow?",
+    "answer": "system known as STUDENT"
+  },
+  {
+    "id": 4,
+    "question": "What iS the name of Artificial Intelligence which allows machines to handle vague information with a deftness that mimics human intuition?",
+    "answer": "Fuzzy Logic"
+  },
+  {
+    "id": 5,
+    "question": "What does the Bayesian network provide?",
+    "answer": "Complete description of the domain"
+  }
+]
