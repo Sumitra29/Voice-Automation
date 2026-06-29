@@ -82,5 +82,5 @@ https://youtu.be/qunCWAik1NI?si=FQjKnI4l-K6Swjpr
   <img src="Voice-Automation-v1.0.gif" width="45%" alt="Voice-Automation">
 </p>
 <p align="center">
-  <em>Mobile view</em>
+  <em>Voice Automation</em>
 </p>
