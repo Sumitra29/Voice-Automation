@@ -91,3 +91,9 @@ https://youtube.com/shorts/vqpm7Jc0MVU?si=wMkfYN4WMfutzj57
 <p align="center">
   <em>Voice Automation</em>
 </p>
+
+
+## Version History
+
+- v1.0 – Basic text-to-speech automation
+- v2.0 – Added custom voice cloning, improved automation, updated documentation
