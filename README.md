@@ -1,14 +1,15 @@
-# Voice-Automation ─ v1.0
+# Voice-Automation ─ v2.0
 YouTube TTS Automation Tool
 
-A Python-based Text-to-Speech automation tool that converts text files into speech audio files.
+A Python-based Text-to-Speech automation tool that automatically converts text into high-quality speech using Coqui TTS with custom voice cloning. Designed to streamline audio generation for YouTube content, quizzes, narration, and other voice-based applications.
 
 ## Features
 
-* Reads text from a text file
-* Generates speech audio using Coqui TTS
-* Saves generated audio automatically
-* Simple workflow for content creation and narration generation
+* Converts text into natural-sounding speech
+* Supports custom speaker voice cloning using clean_voice.wav
+* Generates audio automatically with minimal user input
+* Fast and simple workflow for content creators
+* Suitable for YouTube narration, quizzes, and voice automation
 
 ## Tech Stack
 
@@ -17,23 +18,30 @@ A Python-based Text-to-Speech automation tool that converts text files into spee
 
 ## Project Structure
 
+clean-voice/
+
+* clean_voice.wav
+
 input/
 
 * input.txt
 
 output/
 
-* voice.wav
+* quiz_audio.mp3
 
 main.py
 
 ```
 YouTube-TTS-Automation-Tool
+├── clean-voice/
+│   └── clean_voice.wav
+│
 ├── input/
-│   └── script.txt
+│   └── quiz.json
 │
 ├── output/
-│   └── audio.mp3
+│   └── quiz_audio.mp3
 │
 ├── main.py
 │
@@ -68,18 +76,17 @@ python main.py
 ## Example
 
 Input:
-Hello I am voice clone
-How can I help you?
+question: What is the goal of Artificial Intelligence?
+answer: To explain various sort of intelligence
 
 Output:
-clone-voice.wav
+quiz_audio.mp3
 
 ## Demo
 Watch the project in action:
-https://youtu.be/qunCWAik1NI?si=FQjKnI4l-K6Swjpr
-
+https://youtube.com/shorts/vqpm7Jc0MVU?si=wMkfYN4WMfutzj57
 <p align="center">
-  <img src="Voice-Automation-v1.0.gif" width="45%" alt="Voice-Automation">
+  <img src="Voice-Automation-v2.0.gif" width="45%" alt="Voice-Automation">
 </p>
 <p align="center">
   <em>Voice Automation</em>
