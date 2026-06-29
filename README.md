@@ -79,7 +79,7 @@ Watch the project in action:
 https://youtu.be/qunCWAik1NI?si=FQjKnI4l-K6Swjpr
 
 <p align="center">
-  <img src="Voice-Automation-v1.0.gif" width="45%" alt="Mobile View">
+  <img src="Voice-Automation-v1.0.gif" width="45%" alt="Voice-Automation">
 </p>
 <p align="center">
   <em>Mobile view</em>
